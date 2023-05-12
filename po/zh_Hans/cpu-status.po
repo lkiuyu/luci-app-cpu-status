@@ -19,10 +19,10 @@ msgid "CPU"
 msgstr "处理器"
 
 msgid "CPU Load"
-msgstr ""
+msgstr "处理器占用"
 
 msgid "Load"
-msgstr "负荷"
+msgstr "占用"
 
 msgid "Total Load"
-msgstr ""
+msgstr "总占用"
